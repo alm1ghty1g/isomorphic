@@ -1,5 +1,3 @@
-// import "swiper/css/swiper.css";
-import Swiper from 'swiper';
 export { default as SwiperBasic } from "./SwiperBasic";
 export { default as SwiperWithBasicNav } from "./SwiperWithBasicNav";
 export { default as SwiperWithCustomNav } from "./SwiperWithCustomNav";
